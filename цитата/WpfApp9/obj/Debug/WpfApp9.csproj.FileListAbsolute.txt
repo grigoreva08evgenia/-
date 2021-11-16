@@ -1,0 +1,12 @@
+C:\Users\Evgeniya\Desktop\WpfApp9\WpfApp9\obj\Debug\WpfApp9.csprojAssemblyReference.cache
+C:\Users\Evgeniya\Desktop\WpfApp9\WpfApp9\obj\Debug\MainWindow.g.cs
+C:\Users\Evgeniya\Desktop\WpfApp9\WpfApp9\obj\Debug\Window1.g.cs
+C:\Users\Evgeniya\Desktop\WpfApp9\WpfApp9\obj\Debug\App.g.cs
+C:\Users\Evgeniya\Desktop\WpfApp9\WpfApp9\obj\Debug\WpfApp9_MarkupCompile.cache
+C:\Users\Evgeniya\Desktop\WpfApp9\WpfApp9\obj\Debug\WpfApp9_MarkupCompile.lref
+C:\Users\student\Desktop\401\Купин\цит\WpfApp9\obj\Debug\WpfApp9.csprojAssemblyReference.cache
+C:\Users\student\Desktop\401\Купин\цит\WpfApp9\obj\Debug\MainWindow.g.cs
+C:\Users\student\Desktop\401\Купин\цит\WpfApp9\obj\Debug\Window1.g.cs
+C:\Users\student\Desktop\401\Купин\цит\WpfApp9\obj\Debug\App.g.cs
+C:\Users\student\Desktop\401\Купин\цит\WpfApp9\obj\Debug\WpfApp9_MarkupCompile.cache
+C:\Users\student\Desktop\401\Купин\цит\WpfApp9\obj\Debug\WpfApp9_MarkupCompile.lref
